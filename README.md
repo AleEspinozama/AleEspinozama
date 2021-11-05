@@ -54,9 +54,9 @@
   Landing page:
   <br>
     <p>
-      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./CountryApp.jpg" alt="oh my dog! Full-stack project"/></a>
-      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./home.jpg" alt="oh my dog! Full-stack project"/></a>
-      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./form.jpg" alt="oh my dog! Full-stack project"/></a>
+      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./CountryApp.jpg" alt="landing"/></a>
+      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./home.jpg" alt="home"/></a>
+      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./form.jpg" alt="form page"/></a>
     </p>
 </div>
     
