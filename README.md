@@ -51,12 +51,15 @@
   </h4>
   <br>
   </hr>
-  Landing page:
+
   <br>
     <p>
-      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./CountryApp.jpg" alt="landing"/></a>
-      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./home.jpg" alt="home"/></a>
-      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./form.jpg" alt="form page"/></a>
+      Landing page:
+      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./CountryApp.JPG" alt="landing"/></a>
+      Home page:
+      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./home.JPG" alt="home"/></a>
+      Form page (to add activity):
+      <a href="https://github.com/AleEspinozama/PI-Countries"><img src="./form.JPG" alt="form page"/></a>
     </p>
 </div>
     
